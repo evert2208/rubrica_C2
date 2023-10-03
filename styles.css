@@ -48,7 +48,7 @@ header {
     .card {
         width: calc(100% - 20px);
         margin-bottom: 20px;
-        background-color: #f4f4f4;
+        background-color: #F9F7F7;
         padding: 20px;
         border: 1px solid #ddd;
         box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -58,7 +58,7 @@ header {
 .card {
     width: calc(25% - 20px);
     margin-bottom: 20px;
-    background-color: #f4f4f4;
+    background-color: #F9F7F7;
     padding: 20px;
     border: 1px solid #ddd;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
